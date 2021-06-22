@@ -1,0 +1,9 @@
+C:\Users\merts\Desktop\Yazılım\C#\Yarışma\Yarışma\bin\Debug\Yarışma.exe.config
+C:\Users\merts\Desktop\Yazılım\C#\Yarışma\Yarışma\bin\Debug\Yarışma.exe
+C:\Users\merts\Desktop\Yazılım\C#\Yarışma\Yarışma\bin\Debug\Yarışma.pdb
+C:\Users\merts\Desktop\Yazılım\C#\Yarışma\Yarışma\obj\Debug\Yarışma.Form1.resources
+C:\Users\merts\Desktop\Yazılım\C#\Yarışma\Yarışma\obj\Debug\Yarışma.Properties.Resources.resources
+C:\Users\merts\Desktop\Yazılım\C#\Yarışma\Yarışma\obj\Debug\Yarışma.csproj.GenerateResource.cache
+C:\Users\merts\Desktop\Yazılım\C#\Yarışma\Yarışma\obj\Debug\Yarışma.csproj.CoreCompileInputs.cache
+C:\Users\merts\Desktop\Yazılım\C#\Yarışma\Yarışma\obj\Debug\Yarışma.exe
+C:\Users\merts\Desktop\Yazılım\C#\Yarışma\Yarışma\obj\Debug\Yarışma.pdb
