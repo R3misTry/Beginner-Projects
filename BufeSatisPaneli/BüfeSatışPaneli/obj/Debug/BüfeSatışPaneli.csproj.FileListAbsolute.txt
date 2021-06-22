@@ -1,0 +1,10 @@
+C:\Users\merts\Desktop\Yazılım\C#\BüfeSatışPaneli\BüfeSatışPaneli\obj\Debug\BüfeSatışPaneli.csprojAssemblyReference.cache
+C:\Users\merts\Desktop\Yazılım\C#\BüfeSatışPaneli\BüfeSatışPaneli\obj\Debug\BüfeSatışPaneli.Form1.resources
+C:\Users\merts\Desktop\Yazılım\C#\BüfeSatışPaneli\BüfeSatışPaneli\obj\Debug\BüfeSatışPaneli.Properties.Resources.resources
+C:\Users\merts\Desktop\Yazılım\C#\BüfeSatışPaneli\BüfeSatışPaneli\obj\Debug\BüfeSatışPaneli.csproj.GenerateResource.cache
+C:\Users\merts\Desktop\Yazılım\C#\BüfeSatışPaneli\BüfeSatışPaneli\obj\Debug\BüfeSatışPaneli.csproj.CoreCompileInputs.cache
+C:\Users\merts\Desktop\Yazılım\C#\BüfeSatışPaneli\BüfeSatışPaneli\bin\Debug\BüfeSatışPaneli.exe.config
+C:\Users\merts\Desktop\Yazılım\C#\BüfeSatışPaneli\BüfeSatışPaneli\bin\Debug\BüfeSatışPaneli.exe
+C:\Users\merts\Desktop\Yazılım\C#\BüfeSatışPaneli\BüfeSatışPaneli\bin\Debug\BüfeSatışPaneli.pdb
+C:\Users\merts\Desktop\Yazılım\C#\BüfeSatışPaneli\BüfeSatışPaneli\obj\Debug\BüfeSatışPaneli.exe
+C:\Users\merts\Desktop\Yazılım\C#\BüfeSatışPaneli\BüfeSatışPaneli\obj\Debug\BüfeSatışPaneli.pdb
